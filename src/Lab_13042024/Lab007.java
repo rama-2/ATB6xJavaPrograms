@@ -1,7 +1,7 @@
 package Lab_13042024;
 
 public class Lab007 {
-    public static void main(String[] args) {hhhhh
+    public static void main(String[] args) {
         char c = '\n'; //New line
         char c1 = '\t'; //Add Tab
         char c2 = '\b'; //Backlash, delete 1 char
