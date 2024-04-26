@@ -6,7 +6,7 @@ public class Assignment_2 {
         double b = 6.9;
         double c = 12.8;
         double result;
-        result = Math.cbrt(Math.sqrt(a)+Math.sqrt(b)- Math.abs(c));
+        result = Math.cbrt(Math.pow(a,2)+Math.pow(b,2)- Math.abs(c));
         System.out.println(result);
 
 
