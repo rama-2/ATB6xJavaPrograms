@@ -4,7 +4,7 @@ public class Lab_001 {
 
     public static void main(String[] args) {
         //2d arrays -> which has rows and columns in an aray.
-        //rows -> Harizontal
+        //rows -> Horizontal
         //columns -> vertical
 
         int [][] array_2d = {
